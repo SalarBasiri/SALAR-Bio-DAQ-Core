@@ -1,0 +1,12 @@
+
+New Session for Score_Calc Program (Dr Khori)
+IP Address: 192.168.1.3
+{
+  "ip": "5.74.214.46",
+  "city": "Tehran",
+  "region": "TehrÄn",
+  "country": "IR",
+  "loc": "35.6944,51.4215",
+  "org": "AS12880 Information Technology Company (ITC)",
+  "timezone": "Asia/Tehran"
+}
